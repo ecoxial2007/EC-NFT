@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+configs/local.sh
+data/
+checkpoints/
+outputs/
+results/
+logs/
+*.sqlite
+*.sqlite-*
+*.safetensors
+*.bin
+*.pt
+*.pth
+.DS_Store

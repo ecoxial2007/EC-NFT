@@ -1,0 +1,10 @@
+[
+  {
+    "id": "example_001",
+    "image": "images/example.jpg",
+    "conversations": [
+      {"from": "human", "value": "<image>\nWhat vitreous condition is observed? Answer using <think>...</think> and <answer>...</answer>."},
+      {"from": "gpt", "value": "<think>Describe the supporting visual findings here.</think><answer>VD</answer>"}
+    ]
+  }
+]
